@@ -32,6 +32,7 @@ namespace Tubes_KPL.Model.Course
             }
         }
 
+        
         public Reply(Student student, string replyDescription)
         {
             try
